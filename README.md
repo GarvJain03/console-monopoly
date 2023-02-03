@@ -27,3 +27,4 @@ python3 main.py
 - [ ] Player Elimination System
 - [ ] Bug Fixes
 - [ ] Rent System
+- [ ] UI And Rules
